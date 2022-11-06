@@ -7,3 +7,7 @@
     -webkit-filter: grayscale(16%);
     filter: grayscale(16%);
 }
+
+.card-group {
+    gap: 20px;
+}
